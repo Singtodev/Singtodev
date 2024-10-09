@@ -52,7 +52,7 @@ I'v been learning React.js 3 Years
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Singtodev"><img src="https://github-readme-stats.vercel.app/api?username=Unkeloc4&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Unkeloc4's GitHub stats" /></a>
+<a href="http://www.github.com/Singtodev"><img src="https://github-readme-stats.vercel.app/api?username=Singtodev&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Unkeloc4's GitHub stats" /></a>
 
 
-<a href="https://github.com/Singtodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unkeloc4&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Singtodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singtodev&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
